@@ -118,14 +118,12 @@ END
 
 **Before execution:**
 D:0x40H:
-<BR>
-<BR>
-<BR>
-<BR>
+<img width="1280" height="763" alt="image" src="https://github.com/user-attachments/assets/7efae1c1-e2a8-45aa-a400-5e4d17fe964f" />
+
 After execution:
 D:0x40H:
-<BR>
-<BR>
+<img width="1280" height="760" alt="image" src="https://github.com/user-attachments/assets/f1ddff15-2751-4b26-b886-1960f832f1d2" />
+
 <BR>
 **Result:**
 
